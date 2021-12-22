@@ -1,5 +1,6 @@
 # Ionic_Angular
 Galería de fotos con ionic y angular 
+Integrantes: Kevin Morales, Freddy Guapi
 Este es un proyecto sobre la creación de una galería de imágenes la misma que se encuentra creada en ionic y angular.
 Abrimos la aplicación en Android Studio y verificamos si estén incluidas: Permissions
 [![Ionic-angular.png](https://i.postimg.cc/wvMk8LGF/Ionic-angular.png)](https://postimg.cc/ft4dYtZ0)
